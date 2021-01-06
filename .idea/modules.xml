@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Car Salesman/Car Salesman.iml" filepath="$PROJECT_DIR$/Car Salesman/Car Salesman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Family Tree/Family Tree.iml" filepath="$PROJECT_DIR$/Family Tree/Family Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Google/Google.iml" filepath="$PROJECT_DIR$/Google/Google.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pokemon Trainer/Pokemon Trainer.iml" filepath="$PROJECT_DIR$/Pokemon Trainer/Pokemon Trainer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Raw Data/Raw Data.iml" filepath="$PROJECT_DIR$/Raw Data/Raw Data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Speed Racing/Speed Racing.iml" filepath="$PROJECT_DIR$/Speed Racing/Speed Racing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/definingClasses.iml" filepath="$PROJECT_DIR$/definingClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src2/src2.iml" filepath="$PROJECT_DIR$/src2/src2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src3/src3.iml" filepath="$PROJECT_DIR$/src3/src3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src4/src4.iml" filepath="$PROJECT_DIR$/src4/src4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src5/src5.iml" filepath="$PROJECT_DIR$/src5/src5.iml" />
+    </modules>
+  </component>
+</project>
